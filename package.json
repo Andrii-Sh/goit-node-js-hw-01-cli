@@ -22,5 +22,10 @@
   "homepage": "https://github.com/Andrii-Sh/goit-node-js-hw-01-cli#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^4.0.2",
+    "yargs": "^17.7.2"
   }
 }
